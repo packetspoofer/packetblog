@@ -1,0 +1,4 @@
+baseURL: https://packetspofer.github.io/packetblog
+languageCode: en-us
+title: Packet's blog
+theme: ["PaperMod"]
